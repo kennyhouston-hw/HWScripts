@@ -1,4 +1,4 @@
-<script async>
+<script>
 function loadSlickResources() {
     setTimeout(() => {
         const slickCss = document.createElement('link');
